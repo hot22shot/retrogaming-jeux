@@ -1,252 +1,316 @@
 # ![Les meilleurs jeux console](images/consoles.jpg)
 
 **Atari 2600** (1977)
-- Adventure
-- Beamrider
-- Combat
-- Crystal Castles
-- Frogger
-- HERO
-- Maze Craze
-- Milipede
-- Missile Command
-- Pitfall (1, 2)
-- Pole Position
-- River Raid
-- Space Invaders
-- Spider Fighter
-- Stampede
-- Stargate
-- Video Olympics
-- Warlords
-- Yars' Revenge
+- Adventure (USA)
+- Beamrider (USA)
+- Combat ~ Tank-Plus (USA)
+- Crystal Castles (USA)
+- Frogger (USA)
+- H.E.R.O. (USA)
+- Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA)
+- Millipede (USA)
+- Missile Command (USA)
+- Pitfall II - Lost Caverns (USA)
+- Pitfall! - Pitfall Harry's Jungle Adventure (USA)
+- Pole Position (USA)
+- River Raid (USA)
+- Space Invaders (USA)
+- Spider Fighter (USA)
+- Stampede (USA)
+- Star Trek - Strategic Operations Simulator (USA)
+- Star Wars - Jedi Arena (USA)
+- Star Wars - Return of the Jedi - Death Star Battle (USA)
+- Star Wars - The Arcade Game (USA)
+- Star Wars - The Empire Strikes Back (USA)
+- Stargate (USA)
+- Video Olympics ~ Pong Sports (USA)
+- Warlords (USA)
+- Yars' Revenge (USA)
 
 **Mattel Intellivision** (1980)
-- B-17 Bomber
-- Beamrider
-- Beauty and the Beast
-- Bump 'n Jump
-- Burger Time
-- Defender
-- Demon Attack
-- Dig Dug
-- Diner
-- Donkey Kong Jr
-- Dracula
-- Happy Trails
-- Lock 'n Chase
-- Pac-Man
-- Pitfall
-- Q*Bert
-- River raid
-- Shark! Shark!
-- Snafu
-- Thin ice
-- Worm Whomper
+- B-17 Bomber (USA, Europe)
+- Beamrider (USA, Europe)
+- Beauty & the Beast (USA, Europe)
+- Bump 'n' Jump (USA, Europe)
+- BurgerTime (USA, Europe)
+- Defender (USA)
+- Demon Attack (USA, Europe)
+- Dig Dug (USA)
+- Diner (USA)
+- Donkey Kong (USA, Europe)
+- Donkey Kong Junior (USA, Europe)
+- Dracula (USA, Europe)
+- Happy Trails (USA, Europe)
+- Lock 'N' Chase (USA, Europe)
+- Pac-Man (USA) (Atarisoft)
+- Pitfall! (USA, Europe)
+- Q-bert (USA, Europe)
+- River Raid (USA, Europe)
+- Shark! Shark! (USA, Europe)
+- SNAFU (World)
+- Thin Ice (USA)
+- Worm Whomper (USA, Europe)
 
 **Colecovision** (1982)
-- Antarctic Adventure
-- Beamrider
-- Boulder Dash
-- Cabbadge Patch Kids
-- H.E.R.O.
-- Miner 2049er
-- Oil's Well
-- Pepper II
-- Slither
-- Tapper
+- Antarctic Adventure (USA, Europe)
+- Beamrider (USA)
+- Boulder Dash (USA)
+- Cabbage Patch Kids - Adventures in the Park (USA, Europe)
+- H.E.R.O. - Helicopter Emergency Rescue Operation (USA)
+- Miner 2049er Starring Bounty Bob (USA, Europe)
+- Oil's Well (USA)
+- Pepper II (USA, Europe)
+- Root Beer Tapper (USA)
+- Slither (USA, Europe)
 
 **Vectrex** (1982)
-- Armor Attack
-- Bedlam
-- Berzerk
-- Blitz
-- Cosmic Chasm
-- Mine Storm
-- Pole Position
-- Scramble
-- Space Wars
-- Star Trek
+- Armor..Attack (World)
+- Bedlam (USA, Europe)
+- Berzerk (World)
+- Cosmic Chasm (World)
+- Mine Storm (World)
+- Scramble (USA, Europe)
+- Space Wars (World)
+- Star Trek - The Motion Picture (USA)
 
 **Sega SG-1000** (1983)
 - Choplifter
-- Congo Bongo
+- Congo Bongo (Japan, Europe) (Rev 1)
 - Dokidoki Penguin Land
 - Flicky
 - Girls Garden
 - Gulkave
 - H.E.R.O.
+- Lode Runner (Japan, Europe)
 - Monaco GP
-- Star Jacker
+- Star Jacker (Japan, Europe) (Rev 1)
 
 **Nintendo NES/Famicom** (1983)
-- Battletoads
-- Bionic Commando
-- Blades of Steel
+- Battletoads (Europe)
+- Bionic Commando (Europe)
+- Blades of Steel (Europe)
 - Blaster Master
-- Bomberman
-- Castlevania (1, 2, 3)
-- Chip'n Dale Rescue Rangers 1 & 2 (= Tic & Tac Rangers du Risque)
-- Contra (1, Super)
-- Crystalis
-- Darkwing Duck
-- Double Dragon (1, 2, 3)
-- Dr Mario
-- Dragon Warrior (Dragon Quest) (1, 2, 3, 4)
-- DuckTales (1, 2)
-- Excitebike
-- Final Fantasy (1, 2, 3)
-- Gradius (1, 2, Salamander/Life Force)
-- Ice Climber
-- Kirby's Adventure
-- Little Samson
-- Mega Man (1 à 6)
-- Metal Storm
-- Metroid
-- Ninja Gaiden (1, 2, 3)
-- Punch Out!!
-- Super Mario Bros (1, 2, 3)
-- Super Spike V Ball
-- Tecmo Super Bowl
-- TMNT (1, 2, 3)
-- Zelda (1, 2)
+- Bomberman (USA)
+- Castlevania (Europe)
+- Castlevania II - Simon's Quest (Europe)
+- Castlevania III - Dracula's Curse (Europe)
+- Chip 'n Dale - Rescue Rangers (Europe)
+- Chip 'n Dale - Rescue Rangers 2 (Europe)
+- Contra (USA) 
+- Crystalis (USA)
+- Darkwing Duck (Europe)
+- Darkwing Duck II
+- Double Dragon (Europe)
+- Double Dragon II - The Revenge (Europe)
+- Double Dragon III - The Sacred Stones (Europe)
+- Dr. Mario (Europe)
+- Dragon Warrior (USA)
+- Dragon Warrior II (USA)
+- Dragon Warrior III (USA)
+- Dragon Warrior IV (USA)
+- DuckTales (Europe)
+- DuckTales 2 (France)
+- Excitebike (Europe)
+- Final Fantasy (USA)
+- Gradius (Europe)
+- Ice Climber (USA, Europe, Korea) (En)
+- Kirby's Adventure (France)
+- Legend of Zelda, The (Europe)
+- Little Samson (Europe)
+- Mega Man (Europe)
+- Mega Man 2 (Europe)
+- Mega Man 3 (Europe)
+- Mega Man 4 (Europe)
+- Mega Man 5 (Europe)
+- Mega Man 6 (USA)
+- Metal Storm (USA)
+- Metroid (Europe)
+- Ninja Gaiden III - The Ancient Ship of Doom (USA)
+- Punch-Out!! (Europe)
+- Star Trek - 25th Anniversary (USA)
+- Star Trek - The Next Generation (USA)
+- Star Wars - The Empire Strikes Back (Europe)
+- Star Wars (Europe)
+- Super Mario Bros. (Europe)
+- Super Mario Bros. 2 (Europe)
+- Super Mario Bros. 3 (Europe)
+- Super Spike V'Ball (Europe)
+- Tecmo Super Bowl (USA)
+- Teenage Mutant Hero Turtles (Europe)
+- Teenage Mutant Hero Turtles II - The Arcade Game (Europe)
+- Teenage Mutant Ninja Turtles III - The Manhattan Project (USA)
+- Zelda II - The Adventure of Link (Europe)
 
 **Sega Master System** (1986)
-- After Burner
-- Alex Kidd (Miracle World, Shinobi World)
-- Ancient Ys Vanished Omen
-- Asterix
-- Baku Baku Animal
-- Basketball Nightmare
-- California Games
-- Columns
-- Double Dragon
-- Fantasy Zone (1, 2)
-- Mickey (Castle of Illusion, Land of Illusion)
-- Micro Machines
-- Ninja Gaiden
-- Operation Wolf
-- OutRun
-- Paperboy
-- Penguin Land
-- Phantasy Star
-- Power Strike 1, 2
-- Prince of Persia
-- Psycho Fox
-- R-Type
-- Shinobi
-- Sonic (1, 2, Chaos)
-- Super Monaco GP
-- Wonder Boy (1, Monster Land, Dragon's Trap, Monster World)
-- Zilion
+- After Burner (World)
+- Alex Kidd in Miracle World (USA, Europe)
+- Alex Kidd in Shinobi World (USA, Europe, Brazil) (En)
+- Asterix (Europe, Brazil) (En,Fr)
+- Basketball Nightmare (Europe, Brazil) (En)
+- California Games (USA, Europe, Brazil) (En)
+- California Games II (Europe)
+- Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)
+- Columns (USA, Europe, Brazil) (En)
+- Double Dragon (World)
+- Fantasy Zone (World) (Rev 1)
+- Fantasy Zone II (USA, Europe, Brazil) (En)
+- Land of Illusion Starring Mickey Mouse (Europe, Brazil) (En)
+- Micro Machines (Europe)
+- Ninja Gaiden (Europe, Brazil) (En)
+- Operation Wolf (Europe, Brazil) (En)
+- OutRun (World)
+- Paperboy (Europe)
+- Penguin Land (USA, Europe)
+- Phantasy Star (USA, Europe)
+- Power Strike (USA, Europe, Brazil) (En)
+- Power Strike II (Europe, Brazil) (En)
+- Prince of Persia (Europe, Brazil) (En)
+- Psycho Fox (USA, Europe, Brazil) (En)
+- R-Type (World)
+- Shinobi (USA, Europe, Brazil) (En) (Rev 1)
+- Sonic Chaos (Europe, Brazil) (En)
+- Sonic The Hedgehog (USA, Europe, Brazil) (En)
+- Sonic The Hedgehog 2 (Europe, Brazil) (En)
+- Super Monaco GP (Europe, Brazil) (En)
+- Wonder Boy III - The Dragon's Trap (USA, Europe)
+- Wonder Boy in Monster Land (USA, Europe)
+- Wonder Boy in Monster World (Europe)
+- Ys - The Vanished Omens (USA, Europe, Brazil) (En)
+- Zillion (Japan, Europe) (En,Ja)
+- Zillion II - The Tri Formation (World)
 
 **Atari 7800** (1986)
-- Asteroids
-- Centipede
-- Choplifter!
-- Commando
-- Dark Chambers
-- Desert Falcon
-- Dig Dug
-- Donkey Kong
-- Donkey Kong Junior
-- Food Fight
-- Galaga
-- Ikari Warriors
-- Joust
-- Mario Bros.
-- Motor Psycho
-- Ms. Pac-Man
-- Ninja Golf
-- Pole Position II
-- Rampage
-- Robotron - 2084
+- Asteroids (USA)
+- Centipede (Europe)
+- Choplifter! (Europe)
+- Commando (Europe)
+- Dark Chambers (Europe)
+- Desert Falcon (Europe)
+- Dig Dug (Europe)
+- Donkey Kong (Europe)
+- Donkey Kong Junior (Europe)
+- Food Fight (Europe)
+- Galaga (Europe)
+- Ikari Warriors (Europe)
+- Joust (Europe)
+- Mario Bros. (Europe)
+- Motor Psycho (Europe)
+- Ms. Pac-Man (Europe)
+- Ninja Golf (Europe)
+- Pole Position II (Europe)
+- Rampage (USA)
+- Robotron - 2084 (USA)
 
 **NEC PC Engine/TurboGraphx 16** (1987)
-- Aero Blasters
-- Blazing Lasers/Gunhed
-- Bomberman 94
-- Cadash
-- Detana!! Twin Bee
-- Devil's Crush
-- Dragon's Curse
-- Galaga 90/88
-- Gradius
-- Legendary Axe
-- Magical Chase
-- Military Madness
-- Ninja Spirit
-- PC Denjin/Air Zonk
-- PC Kid/Bonk (1, 2, 3)
-- Parasol Stars
-- Parodius Da!
-- R-Type Complete
-- Salamander
-- Super Star Soldier (+ Final Soldier, Soldier Blade)
+- Aero Blasters (USA)
+- Air Zonk (USA)
+- Blazing Lazers (USA)
+- Bomberman (USA)
+- Bomberman '93 (USA)
+- Bonk 3 - Bonk's Big Adventure (USA)
+- Bonk's Adventure (USA)
+- Bonk's Revenge (USA)
+- Cadash (USA)
+- Devil's Crush (USA)
+- Dragon Spirit (USA)
+- Dragon's Curse (USA)
+- Galaga '90 (USA)
+- Legendary Axe II (USA)
+- Legendary Axe, The (USA)
+- Magical Chase (USA)
+- Military Madness (USA)
+- Ninja Spirit (USA)
+- Parasol Stars - The Story of Bubble Bobble III (USA)
+- Raiden (USA)
+- R-Type (USA)
+- Soldier Blade (USA)
+- Super Star Soldier (USA)
 
 **Sega Megadrive** (1988)
-- Aladdin
-- Alien Soldier
-- Castlevania Bloodlines
-- Chiki Chiki Boys
-- Comix Zone
-- Cool Spot
-- Double Dragon (1, 2, 3)
-- Earthworm Jim (1, 2)
-- Ecco (Dolphin, Tides of Time)
-- Eternal Champions
-- FIFA 95
-- Flashback
-- Golden Axe (1, 2, 3)
-- Kid Chameleon
-- La Légende de Thor (Beyond Oasis aux US)
-- Landstalker
-- Le Roi Lion
-- Madden NFL 95
-- Mickey (Castle of Illusion, World of Illusion)
-- Micro Machines 2
-- Moonwalker
-- Mutant League Football
-- NHL 94
-- OutRun
-- PGA Tour 3
-- Phantasy Star (2, 3, 4)
-- Quackshot
-- Road Rash (1, 2, 3)
-- Rocket Knight
-- Rolo to the Rescue
-- Shinobi (Revenge, Shadow Dancer, III)
-- Streets of Rage (1, 2, 3)
-- Shining Force (1, 2)
-- Soleil
-- Sonic (1, 2, 3, Knuckles)
-- Speedball 2
-- Splatterhouse (2, 3)
-- Strider (1, 2)
-- Strike (Desert, Jungle, Urban)
-- Wonder Boy (Monster Lair, Monster World)
+- Aladdin (Europe)
+- Alien Soldier (Europe)
+- California Games (USA, Europe)
+- Castle of Illusion Starring Mickey Mouse (USA, Europe)
+- Castlevania - The New Generation (Europe)
+- Chiki Chiki Boys (USA, Europe)
+- Comix Zone (Europe) (En,Fr,De,Es)
+- Cool Spot (Europe)
+- Desert Strike - Return to the Gulf (USA, Europe)
+- Double Dragon 3 - The Arcade Game (USA, Europe)
+- Double Dragon V - The Shadow Falls (USA)
+- Dragon Ball Z - L'Appel du Destin (France)
+- Dune II - The Battle for Arrakis (Europe)
+- Earthworm Jim (Europe)
+- Earthworm Jim 2 (Europe)
+- Ecco - The Tides of Time (Europe) (En,Fr,De,Es)
+- Ecco the Dolphin (USA, Europe, Korea) (En)
+- Eternal Champions (Europe)
+- FIFA Soccer 95 (USA, Europe) (En,Fr,De,Es)
+- Flashback (Europe) (En,Fr)
+- Golden Axe (World)
+- Golden Axe II (World)
+- Jungle Strike (USA, Europe)
+- Kid Chameleon (USA, Europe)
+- Landstalker - Le Tresor du Roi Nole (France)
+- Legende de Thor, La (France)
+- Lion King, The (World)
+- Madden NFL 95 (USA, Europe)
+- Micro Machines (Europe)
+- Micro Machines 2 - Turbo Tournament (Europe)
+- Mutant League Football (USA, Europe)
+- Mutant League Hockey (USA, Europe)
+- NHL '94 (USA, Europe)
+- OutRun (USA, Europe)
+- PGA Tour Golf III (USA, Europe)
+- Phantasy Star II (USA, Europe)
+- Phantasy Star III - Generations of Doom (USA, Europe, Korea) (En)
+- Phantasy Star IV (Europe)
+- QuackShot Starring Donald Duck ~ QuackShot - I Love Donald Duck - Guruzia Ou no Hihou (World)
+- Revenge of Shinobi, The (USA, Europe)
+- Road Rash (USA, Europe)
+- Road Rash 3 (USA, Europe)
+- Road Rash II (USA, Europe) (RR205)
+- Rocket Knight Adventures (Europe)
+- Rolling Thunder 2 (Europe)
+- Rolling Thunder 3 (USA)
+- Rolo to the Rescue (USA, Europe)
+- Shadow Dancer - The Secret of Shinobi (World)
+- Shining Force (Europe)
+- Shining Force II (Europe)
+- Shinobi III - Return of the Ninja Master (Europe)
+- Sonic & Knuckles (World)
+- Sonic 3 (Europe)
+- Sonic The Hedgehog (USA, Europe)
+- Sonic The Hedgehog 2 (World)
+- Speedball 2 (Europe)
+- Splatterhouse 2 (Europe)
+- Splatterhouse 3 (USA)
+- Star Trek - Deep Space Nine - Crossroads of Time (Europe)
+- Star Trek - The Next Generation - Echoes from the Past (USA)
+- Stargate (USA, Europe)
+- Streets of Rage 3 (Europe)
+- Strider (USA, Europe)
+- Strider II (Europe)
+- Urban Strike (USA, Europe)
+- Wonder Boy III - Monster Lair (Japan, Europe) (En)
+- Wonder Boy in Monster World (USA, Europe)
+- World of Illusion Starring Mickey Mouse and Donald Duck (Europe)
+- Ys III (USA)
 
 **PC Engine CDROM² / TurboGraphxCD** (1989)
-- Castlevania Rondo of Blood/Akumako Dracula X: Chi no Rondo
-- Dynastic Hero
-- Gate of Thunder
-- Ginga Fukei Densetsu Sapphire
-- Gradius 2
-- Lords of Thunder
-- Nexzr
-- Rainbow Islands
-- Snatcher
-- Spriggan (1, 2)
-- Star Parodia
-- Super Air Zonk/CD Denjin Rockabilly Paradise
-- Sylphia
-- Valis (1 à 4)
-- Ys (1 à 4)
+- Bonk III - Bonk's Big Adventure (USA)
+- Dynastic Hero, The (USA)
+- Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA)
+- Lords of Thunder (USA)
+- Super Air Zonk - Rockabilly-Paradise (USA)
+- Valis II (USA)
+- Valis III (USA)
+- Ys Book I & II (USA)
+- Ys III - Wanderers from Ys (USA)
 
 **Nintendo SNES/Super Famicom** (1990)
 - ActRaiser 1 & 2
 - Aladdin
-- Bahamut Lagoon
 - Breath of Fire 1 & 2
 - Castlevania (Super, Vampire's Kiss)
 - Chrono Trigger
@@ -309,37 +373,39 @@
 - Windjammer
 
 **Sega Mega CD** (1991)
-- Dune
-- Earthworm Jim
-- Ecco (The Dolphin, The Tides of Time)
-- Lunar (Eternal Blue, The Silver Star)
-- Night Trap
-- Popful Mail
-- Robo Aleste
-- Shining Force CD
-- Silpheed
-- Snatcher
-- Sonic CD
+- Dune (Europe) (En,Fr,De,Es,It,Ar)
+- Earthworm Jim - Special Edition (Europe)
+- Ecco - The Tides of Time (Europe) (En,Fr,De,Es)
+- Ecco the Dolphin (Europe)
+- Lunar - Eternal Blue (USA) (RE)
+- Lunar - The Silver Star (USA)
+- Night Trap (France) (Disc 1)
+- Night Trap (France) (Disc 2)
+- Popful Mail (USA) (RE)
+- Robo Aleste (Europe)
+- Shining Force CD (Europe)
+- Silpheed (Europe)
+- Snatcher (Europe)
+- Sonic CD (Europe)
+- Star Wars - Rebel Assault (Europe)
 
 **Philips CD-i** (1991)
-- Burn:Cycle
-- Chaos Control
-- International Tennis
-- L'Ange et le Démon
-- Les Guignols de l'info
-- Lost Eden
-- Marco Polo
-- The Apprentice
-- The 7th Guest
-- Voyeur
+- 7th Guest, The (France) (Disc 1) (Le Jeu)
+- Ange et le Demon, L' (France)
+- Burn-Cycle (France) (Jeu)
+- Chaos Control (France)
+- International Tennis Open (Europe) (En,Fr)
+- Lost Eden (France)
+- Voyeur (France)
 
 **Sega 32X** (1994)
-- After Burner Complete
-- Knuckles' Chaotix
-- Kolibri
-- Star Wars Arcade
-- Virtua Fighter
-- Virtua Racing Deluxe
+- After Burner Complete (Europe)
+- Knuckles' Chaotix (Europe)
+- Kolibri (USA, Europe)
+- Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)
+- Star Wars Arcade (Europe)
+- Virtua Fighter (Europe)
+- Virtua Racing Deluxe (Europe)
 
 **3DO** (1993)
 - Alone in the Dark (1, 2)
@@ -393,32 +459,67 @@
 - X-Men VS Street Fighter
 
 **Sony Playstation** (1994)
-- Ace Combat (1-2-3)
-- Alundra
-- Bushido Blade
+- Ace Combat 2 (France)
+- Ace Combat 3 - Electrosphere (Europe) (En,Fr,De,Es,It)
+- Alundra (France)
+- Bushido Blade (Europe)
 - Capcom Versus (Marvel Super Heroes vs Street Fighter, X-Men vs Street Fighter)
-- Castlevania (Symphony of the Night, Chronicles)
-- Chrono Cross
-- Crash Bandicoot (1, 2, 3)
-- Driver
-- Final Fantasy (7, 8, 9)
-- Front Mission 3
-- Gran Turismo (1, 2)
-- Mega Man (8, X4, X5, X6)
-- Metal Gear Solid
-- Moto Racer
-- Legacy of Kain: Soul Reaver
-- Oddworld
-- Ridge Racer (Revolution, Type 4)
-- Resident Evil (1, 2, 3)
-- Silent Hill
-- Street Fighter Alpha (1, 2, 3)
-- Suikoden
-- Tekken (1, 2, 3)
+- Castlevania - Symphony of the Night (Europe)
+- Castlevania Chronicles (Europe)
+- Chrono Cross (USA) (Disc 1)
+- Chrono Cross (USA) (Disc 2)
+- Crash Bandicoot (Europe)
+- Crash Bandicoot 2 - Cortex Strikes Back (Europe) (En,Fr,De,Es,It)
+- Crash Bandicoot 3 - Warped (Europe) (En,Fr,De,Es,It)
+- Driver (France)
+- Final Fantasy IX (France) (Disc 1)
+- Final Fantasy IX (France) (Disc 2)
+- Final Fantasy IX (France) (Disc 3)
+- Final Fantasy IX (France) (Disc 4)
+- Final Fantasy VII (France) (Disc 1)
+- Final Fantasy VII (France) (Disc 2)
+- Final Fantasy VII (France) (Disc 3)
+- Final Fantasy VIII (France) (Disc 1)
+- Final Fantasy VIII (France) (Disc 2)
+- Final Fantasy VIII (France) (Disc 3)
+- Final Fantasy VIII (France) (Disc 4)
+- Gran Turismo (Europe) (En,Fr,De,Es,It)
+- Legacy of Kain - Soul Reaver (France)
+- Mega Man X3 (Europe)
+- Mega Man X4 (Europe)
+- Mega Man X5 (Europe)
+- Mega Man X6 (Europe)
+- Metal Gear Solid (France) (Disc 1)
+- Metal Gear Solid (France) (Disc 2)
+- Moto Racer (Europe) (En,Fr,De,Es,It,Sv)
+- Oddworld - L'Odyssee d'Abe (France)
+- Railroad Tycoon II (Europe) (En,Fr,De)
+- Resident Evil (France)
+- Resident Evil 2 (France) (Disc 1)
+- Resident Evil 2 (France) (Disc 2)
+- Resident Evil 3 - Nemesis (France)
+- Ridge Racer Revolution (Europe)
+- Ridge Racer Type 4 (Europe) (En,Fr,De,Es,It)
+- R-Type Delta (Europe)
+- R-Types (Europe)
+- Silent Hill (Europe) (En,Fr,De,Es,It)
+- Star Ocean - The Second Story (France) (Disc 1)
+- Star Ocean - The Second Story (France) (Disc 2)
+- Street Fighter Alpha - Warriors' Dreams (Europe)
+- Street Fighter Alpha 2 (Europe)
+- Street Fighter Alpha 3 (Europe)
+- Suikoden (Europe)
+- Suikoden II (France)
 - Tomb Raider (1, 2, 3, Last Revelation)
-- Vandal Hearts
-- Wild Arms
-- Wipeout (1, 2097/XL, 3)
+- Vandal Hearts (Europe) (En,Fr,De)
+- Wild Arms (France)
+- Wild Arms 2 (USA) (Disc 1)
+- Wild Arms 2 (USA) (Disc 2)
+- WipEout (Europe)
+- WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It)
+- WipEout 2097 (Europe)
+- X-COM - Enemy Unknown (Europe) (En,Fr,De,Es,It)
+- X-COM - Terror from the Deep (Europe) (En,Fr,De,Es,It)
 
 **Nintendo 64** (1996)
 - 1080° Snowboarding
@@ -556,6 +657,7 @@
 - Splinter Cell (1, 2, 3)
 - Star Wars Knights of the Old Republic
 - Top Spin
+
 
 
 
