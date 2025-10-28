@@ -86,6 +86,7 @@
 - 1987 - Pacmania
 - 1987 - R-Type
 - 1987 - Rainbow Islands
+- 1987 - Rastan Saga
 - 1987 - Shinobi
 - 1987 - Super Hang On
 - 1988 - Cabal
@@ -198,4 +199,5 @@
 - 2010 - Akai Katana
 - 2016 - Raiden V
 - 2024 - Raiden NOVA
+
 
