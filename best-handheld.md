@@ -9,10 +9,13 @@
 - Donkey Kong Land III (USA, Europe) (SGB Enhanced)
 - DuckTales (Europe)
 - DuckTales 2 (Europe)
-- Final Fantasy (Adventures/Mystic Quest, Legend, Legend II, Legend III)
+- Final Fantasy Legend, The (USA)
+- Final Fantasy Legend II (USA)
+- Final Fantasy Legend III (USA)
 - Gargoyle's Quest (USA, Europe)
 - Kirby's Dream Land (USA, Europe)
 - Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced)
+- Legend of Zelda, The - Link's Awakening (France)
 - Metroid II - Return of Samus (World)
 - Motocross Maniacs (Europe)
 - Pokemon - Version Bleue (France) (SGB Enhanced)
@@ -29,7 +32,6 @@
 - Tetris (World) (Rev A)
 - Wario Land - Super Mario Land 3 (World)
 - Wario Land II (USA, Europe) (SGB Enhanced)
-- Zelda Link's Awakening
 
 **Atari Lynx** (1989)
 - Batman Returns
@@ -169,6 +171,7 @@
 - Patapon
 - Valkyria Chronicles 2
 - Silent Hill Shattered Memories
+
 
 
 
