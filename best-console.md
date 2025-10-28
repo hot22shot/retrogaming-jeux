@@ -1,41 +1,6 @@
 # ![Les meilleurs jeux console](images/consoles.jpg)
 
-L'objectif est de vous aider à avoir un aperçu de la ludothèque de toutes les consoles que vous ne connaissez pas bien ou pas du tout :
-
-- des top 10 pour les machines les moins populaires
-- des top 20 pour les machines populaires
-- des top moins si il n'y a pas assez de bons jeux
-
-N'hésitez pas à me donner vos avis ; les listes évoluent constamment, et c'est toujours intéressant de discuter de ses choix.  
-N'hésitez pas non plus à demander ou poster une liste pour une console totalement inconnue et improbable, l'intérêt étant justement de découvrir des choses.
-
-Les critères :
-
-- le jeu doit être encore fun à jouer aujourd'hui
-- le jeu doit être connu et reconnu ; il y a une page "pépites méconnues" pour les bons jeux inconnus
-- les séries sont acceptées comme une seule entrée pour laisser de la place (ex : Mario, Sonic)
-- le jeu doit être bon sur le système, même si il est meilleur sur une autre plateforme
-- cependant, les bons jeux portés sur beaucoup de plateformes sont limités aux meilleures versions, pour éviter de voir Street Fighter 2 ou Prince of Persia partout par exemple
-- si possible, le top d'une console doit être varié, et pas composé à 90% de RPG ou de shmups
-
-## Génération 1
-
-La première génération de consoles consiste principalement en une litanie de clones de Pong, avec des hardwares dédiés, et sont donc difficilement émulables avec les méthodes traditionnelles.
-
-Ces consoles ne pouvaient souvent pas afficher plus qu'un carré pour représenter le joueur et quelques lignes pour l'espace de jeu, nécessitaient parfois un calque à poser sur l'écran, et de compter les points soi-même. Ces consoles primitives étaient plus considérées comme des jouets, des sortes d'alternatives aux jeux de société, que ce que l'on connaît aujourd'hui.
-
-Comme ces consoles ne contenaient souvent qu'un seul jeu (et parfois quelques variantes), il y a eu quasiment 900 consoles dans cette génération, avec énormément de clones, de légères variantes, etc.
-
-Aucune n'est suffisament intéressante pour être notée ; si vous avez déjà joué à Pong, vous avez déjà tout vu.
-
-## Génération 2
-
-Les premières consoles avec un processeur central et des cartouches interchangeables, la toute première étant la Fairchild F.  
-L'ère de la découverte, avec des caractéristiques très variées, et des contrôleurs parfois étranges.  
-Les palettes de couleurs sont généralement très limitées et il n'est pas encore possible d'avoir des textures à base de sprites, ce qui donne une esthétique très primitive aux jeux de cette époque.
-
 **Atari 2600** (1977)
-
 - Adventure
 - Beamrider
 - Combat
@@ -57,7 +22,6 @@ Les palettes de couleurs sont généralement très limitées et il n'est pas enc
 - Yars' Revenge
 
 **Mattel Intellivision** (1980)
-
 - B-17 Bomber
 - Beamrider
 - Beauty and the Beast
@@ -81,7 +45,6 @@ Les palettes de couleurs sont généralement très limitées et il n'est pas enc
 - Worm Whomper
 
 **Colecovision** (1982)
-
 - Antarctic Adventure
 - Beamrider
 - Boulder Dash
@@ -94,7 +57,6 @@ Les palettes de couleurs sont généralement très limitées et il n'est pas enc
 - Tapper
 
 **Vectrex** (1982)
-
 - Armor Attack
 - Bedlam
 - Berzerk
@@ -107,7 +69,6 @@ Les palettes de couleurs sont généralement très limitées et il n'est pas enc
 - Star Trek
 
 **Sega SG-1000** (1983)
-
 - Choplifter
 - Congo Bongo
 - Dokidoki Penguin Land
@@ -118,17 +79,16 @@ Les palettes de couleurs sont généralement très limitées et il n'est pas enc
 - Monaco GP
 - Star Jacker
 
-## Génération 3
-
-Les consoles arrivées après le "crash des jeux vidéos" de 1983 aux USA.  
-Processeurs 8 bits, arrivée de la croix directionnelle, du scrolling hardware, des sprites, et les palettes de couleurs s'élargissent.
-
 **Nintendo NES/Famicom** (1983)
-
 - Battletoads
+- Bionic Commando
+- Blades of Steel
+- Blaster Master
 - Bomberman
 - Castlevania (1, 2, 3)
+- Chip'n Dale Rescue Rangers 1 & 2 (= Tic & Tac Rangers du Risque)
 - Contra (1, Super)
+- Darkwing Duck
 - Double Dragon (1, 2, 3)
 - Dr Mario
 - Dragon Warrior (Dragon Quest) (1, 2, 3, 4)
@@ -143,31 +103,39 @@ Processeurs 8 bits, arrivée de la croix directionnelle, du scrolling hardware, 
 - Ninja Gaiden (1, 2, 3)
 - Punch Out!!
 - Super Mario Bros (1, 2, 3)
+- Super Spike V Ball
+- Tecmo Super Bowl
 - TMNT (1, 2, 3)
 - Zelda (1, 2)
 
 **Sega Master System** (1986)
-
 - After Burner
 - Alex Kidd (Miracle World, Shinobi World)
+- Ancient Ys Vanished Omen
 - Asterix
+- Baku Baku Animal
+- Basketball Nightmare
+- California Games
 - Columns
 - Double Dragon
 - Fantasy Zone (1, 2)
 - Mickey (Castle of Illusion, Land of Illusion)
 - Micro Machines
 - Ninja Gaiden
+- Operation Wolf
 - OutRun
 - Paperboy
 - Phantasy Star
 - Power Strike 1, 2
+- Prince of Persia
+- Psycho Fox
+- R-Type
 - Shinobi
 - Sonic (1, 2, Chaos)
 - Super Monaco GP
 - Wonder Boy (1, Monster Land, Dragon's Trap, Monster World)
 
 **Atari 7800** (1986)
-
 - Asteroids
 - Centipede
 - Choplifter!
@@ -189,14 +157,7 @@ Processeurs 8 bits, arrivée de la croix directionnelle, du scrolling hardware, 
 - Rampage
 - Robotron - 2084
 
-## Génération 4
-
-Le début de la maturité, et la guerre des consoles entamée par Sega contre Nintendo.  
-Processeurs 16 bits, multiplication des boutons sur les manettes (c'est l'adolescence chez les consoles), défilement parallaxe, et le début de la guerre des chiffres : augmentation des sprites, des couleurs de la résolution.  
-C'est aussi les balbutiements de la 3D (sur console en tout cas) avec des jeux comme Star Fox ou des extensions comme le 32X, et l'arrivée du CD-ROM, et des add-ons hardware.
-
 **NEC PC Engine/TurboGraphx 16** (1987)
-
 - Aero Blasters
 - Blazing Lasers/Gunhed
 - Bomberman 94
@@ -219,7 +180,6 @@ C'est aussi les balbutiements de la 3D (sur console en tout cas) avec des jeux c
 - Super Star Soldier (+ Final Soldier, Soldier Blade)
 
 **Sega Megadrive** (1988)
-
 - Aladdin
 - Castlevania Bloodlines
 - Double Dragon (1, 2, 3)
@@ -242,7 +202,6 @@ C'est aussi les balbutiements de la 3D (sur console en tout cas) avec des jeux c
 - Wonder Boy (Monster Lair, Monster World)
 
 **PC Engine CDROM² / TurboGraphxCD** (1989)
-
 - Castlevania Rondo of Blood/Akumako Dracula X: Chi no Rondo
 - Dynastic Hero
 - Gate of Thunder
@@ -260,7 +219,6 @@ C'est aussi les balbutiements de la 3D (sur console en tout cas) avec des jeux c
 - Ys (1 à 4)
 
 **Nintendo SNES/Super Famicom** (1990)
-
 - Aladdin
 - Castlevania (Super, Vampire's Kiss)
 - Chrono Trigger
@@ -283,7 +241,6 @@ C'est aussi les balbutiements de la 3D (sur console en tout cas) avec des jeux c
 - Zelda A Link to the Past
 
 **SNK NegoGeo AES** (1990)
-
 - Art of Fighting (1, 2, 3)
 - Baseball Stars 2
 - Blazing Star
@@ -306,7 +263,6 @@ C'est aussi les balbutiements de la 3D (sur console en tout cas) avec des jeux c
 - Windjammer
 
 **Sega Mega CD** (1991)
-
 - Dune
 - Earthworm Jim
 - Ecco (The Dolphin, The Tides of Time)
@@ -320,7 +276,6 @@ C'est aussi les balbutiements de la 3D (sur console en tout cas) avec des jeux c
 - Sonic CD
 
 **Philips CD-i** (1991)
-
 - Burn:Cycle
 - Chaos Control
 - International Tennis
@@ -333,7 +288,6 @@ C'est aussi les balbutiements de la 3D (sur console en tout cas) avec des jeux c
 - Voyeur
 
 **Sega 32X** (1994)
-
 - After Burner Complete
 - Knuckles' Chaotix
 - Kolibri
@@ -341,14 +295,7 @@ C'est aussi les balbutiements de la 3D (sur console en tout cas) avec des jeux c
 - Virtua Fighter
 - Virtua Racing Deluxe
 
-## Génération 5
-
-La 3D débarque en force dans les salons.  
-Processeurs 32 bits, et forte orientation vers la 3D : des textures, plein de polygones, éclairages dynamiques, anti-aliasing, etc.  
-C'est aussi la génération des CD-ROM et donc du piratage massif, des pistes audio en qualité CD, des vidéos précalculées, et le retour des joysticks analogiques.
-
 **3DO** (1993)
-
 - Alone in the Dark (1, 2)
 - Crash 'n Burn
 - D
@@ -371,7 +318,6 @@ C'est aussi la génération des CD-ROM et donc du piratage massif, des pistes au
 - Wing Commander 3
 
 **Atari Jaguar/Jaguar CD** (1993)
-
 - Alien vs Predator
 - Doom
 - Highlander
@@ -381,7 +327,6 @@ C'est aussi la génération des CD-ROM et donc du piratage massif, des pistes au
 - Tempest 2000
 
 **Sega Saturn** (1994)
-
 - Athlete Kings
 - Burning Rangers
 - Bust a Move 2
@@ -402,7 +347,6 @@ C'est aussi la génération des CD-ROM et donc du piratage massif, des pistes au
 - X-Men VS Street Fighter
 
 **Sony Playstation** (1994)
-
 - Castlevania (Symphony of the Night, Chronicles)
 - Chrono Cross
 - Crash Bandicoot (1, 2, 3)
@@ -425,7 +369,6 @@ C'est aussi la génération des CD-ROM et donc du piratage massif, des pistes au
 - Wipeout (1, 2097/XL, 3)
 
 **Nintendo 64** (1996)
-
 - 1080° Snowboarding
 - Banjo (Kazooie, Tooie)
 - Conker's Bad Fur Day
@@ -447,13 +390,7 @@ C'est aussi la génération des CD-ROM et donc du piratage massif, des pistes au
 - Yoshi's Story
 - Zelda (Ocarina of Time, Majora's Mask)
 
-## Génération 6
-
-Appelée (à tort) la génération 128 bits, c'est le début de la généralisation des jeux cross-platform par les éditeurs tiers, et les balbutiements du multijoueur en ligne.  
-Les architectures sont très variées, mais se concentrent toutes sur les capacités de rendu 3D, qui permettent de sortir des jeux encore "regardables" aujourd'hui, en témoignent le flot important de "remasters HD" de cette génération.
-
 **Sega Dreamcast** (1998)
-
 - Crazy Taxi (1, 2)
 - Dead Or Alive 2
 - F355 challenge
@@ -476,7 +413,6 @@ Les architectures sont très variées, mais se concentrent toutes sur les capaci
 - Virtua Tennis (1, 2)
 
 **Sony Playstation 2** (2000)
-
 - Bully
 - Burnout (1, 2, 3)
 - Dragon Ball Z Budokai 3 Collector
@@ -499,7 +435,6 @@ Les architectures sont très variées, mais se concentrent toutes sur les capaci
 - Tony Hawk Pro Skater
 
 **Nintendo Gamecube** (2001)
-
 - Baten Kaitos (Eternal Wings, Origins)
 - Beyond Good & Evil
 - Donkey Kong Jungle Beat, Donkey Konga
@@ -522,7 +457,6 @@ Les architectures sont très variées, mais se concentrent toutes sur les capaci
 - Zelda (Wind Waker, Twilight Princess, Four Swords)
 
 **Microsoft Xbox** (2001)
-
 - Chronicles of Riddick: Escape from Butcher Bay
 - Crimson Skies
 - Fable
