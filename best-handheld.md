@@ -1,18 +1,34 @@
 # ![Les meilleurs jeux portables](images/handhelds.png)
 
 **Nintendo Gameboy** (1989)
-- Castlevania (II, Adventure, Legends)
-- Donkey Kong Land (1, 2, 3)
-- Duck Tales (1, 2)
+- Castlevania - The Adventure (Europe)
+- Castlevania II - Belmont's Revenge (USA, Europe)
+- Castlevania Legends (USA, Europe) (SGB Enhanced)
+- Donkey Kong Land (USA, Europe) (SGB Enhanced)
+- Donkey Kong Land 2 (USA, Europe) (SGB Enhanced)
+- Donkey Kong Land III (USA, Europe) (SGB Enhanced)
+- DuckTales (Europe)
+- DuckTales 2 (Europe)
 - Final Fantasy (Adventures/Mystic Quest, Legend, Legend II, Legend III)
-- Gargoyle's Quest
-- Kirby (1, 2)
-- Metroid II
-- Motocross Maniacs
-- Pokemon (Rouge, Bleu, Jaune)
-- Super Mario Land (1, 2)
-- Tetris
-- Wario Land (1, 2)
+- Gargoyle's Quest (USA, Europe)
+- Kirby's Dream Land (USA, Europe)
+- Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced)
+- Metroid II - Return of Samus (World)
+- Motocross Maniacs (Europe)
+- Pokemon - Version Bleue (France) (SGB Enhanced)
+- Pokemon - Version Jaune - Edition Speciale Pikachu (France) (GBC,SGB Enhanced)
+- Pokemon - Version Rouge (France) (SGB Enhanced)
+- Star Trek - 25th Anniversary (USA, Europe)
+- Star Trek - The Next Generation (USA, Europe)
+- Star Trek Generations - Beyond the Nexus (Europe) (SGB Enhanced)
+- Star Wars - The Empire Strikes Back (Europe)
+- Star Wars (Europe)
+- Stargate (USA, Europe)
+- Super Mario Land (World)
+- Super Mario Land 2 - 6 Golden Coins (USA, Europe)
+- Tetris (World) (Rev A)
+- Wario Land - Super Mario Land 3 (World)
+- Wario Land II (USA, Europe) (SGB Enhanced)
 - Zelda Link's Awakening
 
 **Atari Lynx** (1989)
@@ -153,5 +169,6 @@
 - Patapon
 - Valkyria Chronicles 2
 - Silent Hill Shattered Memories
+
 
 
