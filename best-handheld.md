@@ -101,6 +101,8 @@
 - Advance Wars (1, 2)
 - Boktai (1, 2)
 - Castlevania (Circle of the Moon, Harmony of Dissonance, Aria of Sorrow)
+- Dragon Ball Advanced Adventure
+- Drill Dozer
 - Final Fantasy (I&II, IV, V, VI)
 - Final Fantasy Tactics Advance
 - Fire Emblem (tout court, Sacred Stones)
@@ -149,3 +151,4 @@
 - Mega Man Powered Up
 - Patapon
 - Silent Hill Shattered Memories
+
