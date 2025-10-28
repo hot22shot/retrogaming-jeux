@@ -384,14 +384,20 @@
 - X-Men VS Street Fighter
 
 **Sony Playstation** (1994)
+- Ace Combat (1-2-3)
+- Alundra
+- Bushido Blade
+- Capcom Versus (Marvel Super Heroes vs Street Fighter, X-Men vs Street Fighter)
 - Castlevania (Symphony of the Night, Chronicles)
 - Chrono Cross
 - Crash Bandicoot (1, 2, 3)
 - Driver
 - Final Fantasy (7, 8, 9)
+- Front Mission 3
 - Gran Turismo (1, 2)
 - Mega Man (8, X4, X5, X6)
 - Metal Gear Solid
+- Moto Racer
 - Legacy of Kain: Soul Reaver
 - Oddworld
 - Ridge Racer (Revolution, Type 4)
@@ -408,6 +414,7 @@
 **Nintendo 64** (1996)
 - 1080° Snowboarding
 - Banjo (Kazooie, Tooie)
+- Blast Corps
 - Conker's Bad Fur Day
 - Diddy Kong Racing
 - F-Zero X
@@ -417,6 +424,7 @@
 - Mario Kart 64
 - Mario Tennis
 - Paper Mario
+- Pokemon Stadium
 - Pilotwings 64
 - Sin & Punishment
 - Star Fox 64
@@ -428,6 +436,8 @@
 - Zelda (Ocarina of Time, Majora's Mask)
 
 **Sega Dreamcast** (1998)
+- 24h du Mans
+- Bangai O
 - Crazy Taxi (1, 2)
 - Dead Or Alive 2
 - F355 challenge
@@ -452,8 +462,11 @@
 **Sony Playstation 2** (2000)
 - Bully
 - Burnout (1, 2, 3)
+- Devil May Cry (1, 2, 3)
 - Dragon Ball Z Budokai 3 Collector
+- Dragon Quest 8
 - Final Fantasy (X, X2, XII)
+- Freedom Fighters
 - God of War (1, 2)
 - Gran Turismo (3, 4)
 - Grand Theft Auto (3, Vice City, San Andreas)
@@ -461,27 +474,37 @@
 - Jak and Daxter
 - Katamari Damacy, We Love Katamari
 - Kingdom Hearts (1, 2)
+- Manhunt
 - Metal Gear Solid (2, 3)
+- Monster Hunter
 - Okami
 - Persona (3, 4)
 - Prince of Persia (Sands of Time, Warrior Within, Two Thrones)
 - Pro Evolution Soccer (1, 2, 3)
+- Ratchet & Clank
+- Second Sight
 - Shadow of the Colossus
+- Silent Hill 2
 - Tekken (4, 5)
 - Tomb Raider Anniversary
 - Tony Hawk Pro Skater
 
 **Nintendo Gamecube** (2001)
+- Animal Crossing
 - Baten Kaitos (Eternal Wings, Origins)
 - Beyond Good & Evil
+- Chibi Robot
+- Dancing Stage Mario Mix
 - Donkey Kong Jungle Beat, Donkey Konga
 - Eternal Darkness
 - F-Zero GX
 - Final Fantasy Crystal Chronicles
+- Fire Emblem Path of Radiance
 - Killer 7
 - Luigi's Mansion
 - Mario Kart Double Dash
 - Mario Smash Football
+- Metal Gear Solid The Twin Snakes
 - Metroid Prime (1, 2)
 - Paper Mario & The Thousand Years Door
 - Pikmin (1, 2)
@@ -491,6 +514,7 @@
 - Super Mario Sunshine
 - Super Smash Bros Melee
 - Super Monkey Ball 2
+- Viewtiful Joe
 - Zelda (Wind Waker, Twilight Princess, Four Swords)
 
 **Microsoft Xbox** (2001)
@@ -514,4 +538,5 @@
 - Splinter Cell (1, 2, 3)
 - Star Wars Knights of the Old Republic
 - Top Spin
+
 
