@@ -181,24 +181,42 @@
 
 **Sega Megadrive** (1988)
 - Aladdin
+- Alien Soldier
 - Castlevania Bloodlines
+- Comix Zone
+- Cool Spot
 - Double Dragon (1, 2, 3)
 - Earthworm Jim (1, 2)
 - Ecco (Dolphin, Tides of Time)
+- Eternal Champions
+- FIFA 95
 - Flashback
 - Golden Axe (1, 2, 3)
 - Kid Chameleon
+- La Légende de Thor (Beyond Oasis aux US)
 - Landstalker
+- Le Roi Lion
+- Madden NFL 95
 - Mickey (Castle of Illusion, World of Illusion)
+- Micro Machines 2
+- Moonwalker
+- Mutant League Football
+- NHL 94
 - OutRun
+- PGA Tour 3
 - Phantasy Star (2, 3, 4)
+- Quackshot
+- Road Rash (1, 2, 3)
+- Rocket Knight
 - Shinobi (Revenge, Shadow Dancer, III)
 - Streets of Rage (1, 2, 3)
 - Shining Force (1, 2)
+- Soleil
 - Sonic (1, 2, 3, Knuckles)
 - Speedball 2
 - Splatterhouse (2, 3)
 - Strider (1, 2)
+- Strike (Desert, Jungle, Urban)
 - Wonder Boy (Monster Lair, Monster World)
 
 **PC Engine CDROM² / TurboGraphxCD** (1989)
@@ -219,34 +237,51 @@
 - Ys (1 à 4)
 
 **Nintendo SNES/Super Famicom** (1990)
+- ActRaiser 1 & 2
 - Aladdin
+- Breath of Fire 1 & 2
 - Castlevania (Super, Vampire's Kiss)
 - Chrono Trigger
 - Contra 3
 - Donkey Kong Country (1, 2, 3)
+- Dragon Ball Z (Hyper Dimension, Super Butouden, Legende Saien, Ultime Menace)
 - Earthbound
 - F-Zero
 - Final Fantasy (4, 5, 6)
+- Final Fight (1, 2, 3)
+- Illusion of Gaia
+- International Superstar Soccer Deluxe
 - Killer Instinct
-- Kirby (Super Star, Dream Land 3)
+- Kirby (Super Star, Dream Land 3, Dream Course)
 - Mega Man X (X, X2, X3, Bass)
 - Mortal Kombat (2, 3)
+- NBA Jam Tournament Edition
+- NHL 96
+- Puzzle Bobble
 - Secret of Mana
 - Star Fox
-- Street Fighter II (Super, Turbo)
+- Street Fighter II Turbo
+- Super Aleste
 - Super Mario (All Star, World, Yoshi's Island)
 - Super Mario Kart
 - Super Mario RPG
 - Super Metroid
+- Super Punch Out
+- Super Street Fighter II
+- Tiny Toons Wacky Sports
+- TMNT 4
 - Zelda A Link to the Past
 
 **SNK NegoGeo AES** (1990)
 - Art of Fighting (1, 2, 3)
 - Baseball Stars 2
 - Blazing Star
+- Cyberlip
+- Eight Man
 - Fatal Fury (1 à 3 + Special)
 - Garou Mark of the Wolves
 - King of Fighter (94 à 2003)
+- Kizuna Encounters
 - Magical Drop (2, 3)
 - Metal Slug (1 à 6 + X)
 - Neo Drift Out
@@ -256,6 +291,8 @@
 - Samurai Showdown (1 à 5 + Special)
 - Sengoku (1, 2, 3)
 - Shock Troopers (1, 2)
+- Spin Master
+- Super Sidekicks
 - The Last Blade (1, 2)
 - Top Hunter
 - Trash Rally
@@ -477,3 +514,4 @@
 - Splinter Cell (1, 2, 3)
 - Star Wars Knights of the Old Republic
 - Top Spin
+
