@@ -1,9 +1,6 @@
 # ![Les meilleurs jeux sur ordinateur](images/computers.jpg)
 
-Avant la dominance du standard IBM PC (duquel proviennent les PC actuels), les ordinateurs ont tous des formats propriétaires, ce qui génère un grand nombre de machines incompatibles les unes avec les autres.
-
 **Apple II** (1977)
-
 - Airheart
 - Captain Goodnight
 - Choplifter
@@ -24,30 +21,57 @@ Avant la dominance du standard IBM PC (duquel proviennent les PC actuels), les o
 - Wizardry (1 à 5)
 
 **IBM PC/MS-DOS** (1981-1997)
-
+- Beneath a Steel Sky
+- Betrayal at Krondor
+- Blood
+- Carmageddon
 - Civilization (1, 2)
+- Comanche
 - Command & Conquer (+ Red Alert)
+- Commander Keen (1 à 6 + Dreams)
 - Descent
+- Discworld (1, 2)
 - Doom (1, 2)
+- Dune
 - Dune 2
+- Duke Nukem 3D
+- EF2000
 - Eye of the Beholder
+- Falcon 3.0
 - Flight Simulator (1 à 5)
+- Formula One Grand Prix (1, 2)
 - Heroes of Might & Magic (1, 2)
+- Jazz Jackrabbit
+- Lands of Lore
+- Little Big Adventure
+- Little Big Adventure 2
+- Master of Orion (1, 2)
+- Mechwarrior 2
+- Panzer General
 - Point & clicks Lucas Arts (Maniac Mansion, Monkey Island, Indiana Jones, Sam & Max, Full Throttle...)
 - Point & clicks Sierra (King's Quest, Space Quest, Leisure Suit Larry, Police Quest)
 - Quake
+- Railroad Tycoon
+- Railroad Tycoon 2
+- Red Baron
+- Screamer (1, 2, Rally)
 - Sim City (1, 2000)
+- Spear of Destiny
+- Su-27 Flanker
 - The Elders Scrolls 2 Daggerfall
 - Transport Tycoon
-- Ultima (6 + Underworld 1 & 2)
+- Tyrian 2000
+- Ultima (6,7,8 + Underworld 1 & 2)
 - Warcraft (1, 2)
+- Wasteland
 - Wing Commander (1 à 4, Privateer)
 - Wolfenstein 3D
 - X-Wing (+ TIE Fighter)
+- XCOM Apocalypse
 - XCOM Enemy Unknown/UFO Defense
+- XCOM Terror from the Deep
 
 **Atari 5200/400/800/XL/XE/XEGS** (1982)
-
 - Boulder Dash
 - Bounty Bob Strikes Back
 - Bruce Lee
@@ -60,7 +84,6 @@ Avant la dominance du standard IBM PC (duquel proviennent les PC actuels), les o
 - The Great American Cross Country Road Race
 
 **Commodore 64** (1982)
-
 - Airborne Ranger
 - Bruce Lee
 - Bubble Bobble
@@ -78,7 +101,6 @@ Avant la dominance du standard IBM PC (duquel proviennent les PC actuels), les o
 - Uridium
 
 **ZX Spectrum** (1982)
-
 - Alien 8
 - Atic Atac
 - Chaos
@@ -101,7 +123,6 @@ Avant la dominance du standard IBM PC (duquel proviennent les PC actuels), les o
 - Turbo Esprit
 
 **Microsoft MSX** (1983)
-
 - F1-Spirit
 - Knightmare
 - Maze of Gallious
@@ -112,7 +133,6 @@ Avant la dominance du standard IBM PC (duquel proviennent les PC actuels), les o
 - Salamander
 
 **Amstrad CPC** (1984)
-
 - Arkanoid
 - Bomb Jack
 - Canadair
@@ -134,30 +154,46 @@ Avant la dominance du standard IBM PC (duquel proviennent les PC actuels), les o
 - Starglider 2
 
 **Commodore Amiga** (1985)
-
 - Agony
 - Alien Breed Special Edition 92
 - Another World
 - Battle Squadron
+- Beneath a Steel Sky
+- Black Crypt
 - Defender of the Crown
+- Dune
+- Dune II
 - Dungeon Master
 - Epic
+- Flashback
+- Goblins (1, 2, 3)
+- Gods
+- Indiana Jones & the Fate of Atlantis
+- Jim Power
+- Leander
 - Lemmings
+- Lionheart
 - Moonstone
 - No Second Prize
 - Populous
 - Project X
+- Settlers
 - Sensible Soccer
 - Shadow of the Beast
 - SpeedBall II
+- Super Skidmarks
+- Syndicate
 - The Chaos Engine
+- The Lost Vikings
 - Turrican (1, 2, 3)
 - Unreal
+- Wolfchild
+- Worms
+- Wrath of the Demon
 - Xenon 2
 - Zool
 
 **Atari ST** (1985)
-
 - Cannon Fodder
 - Carrier command
 - Falcon
@@ -173,7 +209,6 @@ Avant la dominance du standard IBM PC (duquel proviennent les PC actuels), les o
 - Vroom
 
 **Microsoft MSX2** (1985)
-
 - Aleste (1, 2)
 - Dragon slayer (série)
 - Metal Gear (1, 2)
@@ -186,7 +221,6 @@ Avant la dominance du standard IBM PC (duquel proviennent les PC actuels), les o
 - Zanac ex
 
 **Sharp X68000** (1987)
-
 - Akumajou Dracula
 - Aquales
 - Downtown Nekketsu Story
@@ -199,10 +233,14 @@ Avant la dominance du standard IBM PC (duquel proviennent les PC actuels), les o
 - Super Street Fighter II
 
 **Windows 95/98** (1995-2001)
-
+- Alien vs Predator 1, 2
 - Age of Empires 1, 2
+- Arcanum
+- Battlezone 1, 2
 - Donjons & Dragons Bioware/Black Isle (Baldur's Gate 1, 2, Planescape Torment, Icewind Dale 1, 2, Neverwinter Nights)
+- City Builders Impression Games (Caesar 3, Pharaoh...)
 - Civilization 2, Alpha Centauri
+- Commandos 1, 2
 - Deus Ex
 - Diablo 1, 2
 - Fallout 1, 2
@@ -210,13 +248,25 @@ Avant la dominance du standard IBM PC (duquel proviennent les PC actuels), les o
 - Freespace 2
 - Grand Prix Legends
 - Half-Life, Counter Strike
+- Heroes of Might & Magic 1, 2, 3
+- Homeworld
 - Interstate 76
 - Jedi Knight 1, 2
+- Les Chevaliers de Baphomet/Broken Sword
 - Little Big Adventure 1, 2
+- Medal of Honor
+- MDK 2
+- Might & Magic 6, 7, 8
 - Myst, Riven
+- No One Lives Forever 1, 2
 - Operation Flashpoint
+- Outcast
 - Quake 2, 3
+- Rainbow Six
+- Rollercoaster Tycoon 1, 2
+- Série Madness (Midtown Madness, Motocross Madness, Monster Truck Madness)
 - Starcraft
+- System Shock 2
 - Thief 1, 2
 - Total Annihilation
 - Unreal, Unreal Tournament
