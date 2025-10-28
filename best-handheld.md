@@ -1,7 +1,6 @@
 # ![Les meilleurs jeux portables](images/handhelds.png)
 
 **Nintendo Gameboy** (1989)
-
 - Castlevania (II, Adventure, Legends)
 - Donkey Kong Land (1, 2, 3)
 - Duck Tales (1, 2)
@@ -17,7 +16,6 @@
 - Zelda Link's Awakening
 
 **Atari Lynx** (1989)
-
 - Batman Returns
 - Blue Lightning
 - California Games
@@ -33,7 +31,6 @@
 - Zarlor's Mercenary
 
 **Sega Game Gear** (1990)
-
 - Aladdin
 - Ax Battler - A Legend of Golden Axe
 - Columns
@@ -51,13 +48,16 @@
 - Tails Adventures
 
 **Nintendo Gameboy Color** (1998)
-
+- Bionic Commando Elite Force
+- Blaster Master Enemy Below
 - Dragon Warrior (Dragon Quest) (1, 2, 3)
+- Heroes of Might and Magic 2
 - Mario Tennis
 - Mario Golf
 - Metal Gear Solid Ghost Babel
 - Motocross Maniacs 2
 - Pokemon (Argent, Or, Cristal)
+- R-Type DX
 - Shantae
 - Survival Kids
 - Super Mario Bros Deluxe
@@ -65,7 +65,6 @@
 - Zelda (Oracle of Age, Oracle of Seasons)
 
 **SNK NeoGeo Pocket/Color** (1998)
-
 - Biomotor Unitron
 - Faselei
 - King of Fighters R2
@@ -80,7 +79,6 @@
 - The Last Blade
 
 **Bandai WonderSwan** (1999)
-
 - Beatmania
 - Blue Wing Blitz
 - Dicing Knight Period
@@ -100,7 +98,6 @@
 - Tetris
 
 **Nintendo Gameboy Advance** (2001)
-
 - Advance Wars (1, 2)
 - Boktai (1, 2)
 - Castlevania (Circle of the Moon, Harmony of Dissonance, Aria of Sorrow)
@@ -123,7 +120,6 @@
 - Zelda (Link to the Past, Minish Cap)
 
 **Nintendo DS** (2004)
-
 - Advance Wars (Dual Strike, Dark Conflict)
 - Castlevania (Dawn of Sorrow, Portrait of Ruin, Order of Ecclesia)
 - Dragon Quest (4 à 9)
@@ -144,7 +140,6 @@
 - Zelda (Spirit Tracks, Phantom Hourglass)
 
 **Sony PSP** (2004)
-
 - Crush
 - DBZ Shin Budokai
 - Ecochrome
