@@ -88,6 +88,7 @@
 - Castlevania (1, 2, 3)
 - Chip'n Dale Rescue Rangers 1 & 2 (= Tic & Tac Rangers du Risque)
 - Contra (1, Super)
+- Crystalis
 - Darkwing Duck
 - Double Dragon (1, 2, 3)
 - Dr Mario
@@ -98,7 +99,9 @@
 - Gradius (1, 2, Salamander/Life Force)
 - Ice Climber
 - Kirby's Adventure
+- Little Samson
 - Mega Man (1 à 6)
+- Metal Storm
 - Metroid
 - Ninja Gaiden (1, 2, 3)
 - Punch Out!!
@@ -125,6 +128,7 @@
 - Operation Wolf
 - OutRun
 - Paperboy
+- Penguin Land
 - Phantasy Star
 - Power Strike 1, 2
 - Prince of Persia
@@ -134,6 +138,7 @@
 - Sonic (1, 2, Chaos)
 - Super Monaco GP
 - Wonder Boy (1, Monster Land, Dragon's Trap, Monster World)
+- Zilion
 
 **Atari 7800** (1986)
 - Asteroids
@@ -183,6 +188,7 @@
 - Aladdin
 - Alien Soldier
 - Castlevania Bloodlines
+- Chiki Chiki Boys
 - Comix Zone
 - Cool Spot
 - Double Dragon (1, 2, 3)
@@ -208,6 +214,7 @@
 - Quackshot
 - Road Rash (1, 2, 3)
 - Rocket Knight
+- Rolo to the Rescue
 - Shinobi (Revenge, Shadow Dancer, III)
 - Streets of Rage (1, 2, 3)
 - Shining Force (1, 2)
@@ -239,6 +246,7 @@
 **Nintendo SNES/Super Famicom** (1990)
 - ActRaiser 1 & 2
 - Aladdin
+- Bahamut Lagoon
 - Breath of Fire 1 & 2
 - Castlevania (Super, Vampire's Kiss)
 - Chrono Trigger
@@ -259,6 +267,7 @@
 - NHL 96
 - Puzzle Bobble
 - Secret of Mana
+- Soul Blazer
 - Star Fox
 - Street Fighter II Turbo
 - Super Aleste
@@ -467,24 +476,33 @@
 - Dragon Quest 8
 - Final Fantasy (X, X2, XII)
 - Freedom Fighters
+- Frequency
+- Gitaroo Man
+- God Hand
 - God of War (1, 2)
+- Gradius 5
 - Gran Turismo (3, 4)
 - Grand Theft Auto (3, Vice City, San Andreas)
+- Gregory Horror Show
 - Ico
 - Jak and Daxter
 - Katamari Damacy, We Love Katamari
 - Kingdom Hearts (1, 2)
 - Manhunt
+- Magic Pengel: The Quest for Colour
+- Metal Arms: Glitch in the System
 - Metal Gear Solid (2, 3)
 - Monster Hunter
 - Okami
 - Persona (3, 4)
 - Prince of Persia (Sands of Time, Warrior Within, Two Thrones)
 - Pro Evolution Soccer (1, 2, 3)
+- Psi-Ops: The Mindgate Conspiracy
 - Ratchet & Clank
 - Second Sight
 - Shadow of the Colossus
 - Silent Hill 2
+- Sly Cooper
 - Tekken (4, 5)
 - Tomb Raider Anniversary
 - Tony Hawk Pro Skater
@@ -538,5 +556,6 @@
 - Splinter Cell (1, 2, 3)
 - Star Wars Knights of the Old Republic
 - Top Spin
+
 
 
