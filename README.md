@@ -1,5 +1,9 @@
 # Retrogaming - les listes des meilleurs jeux
 
+Version simplifiée pour mon besoin :
+- moins de rubrique
+- regroupement des rubriques
+
 Bienvenue sur la **liste des jeux rétrogaming** ! _o/
 
 Ceci vous permettra de vous y retrouver parmi les milliers de jeux que vous avez ~~téléch~~acheté pour chaque machine. Finis, les romsets de 2000 jeux où vous ne savez pas quoi lancer : concentrez-vous sur le meilleur, la crème de la crème.
@@ -17,13 +21,6 @@ Cela devrait aller sans dire, mais **ces listes sont subjectives**. J'ai essayé
 - [Les meilleurs jeux par console](best-console.md)
 - [Les meilleurs jeux par ordinateur](best-computer.md)
 - [Les meilleurs jeux arcade](best-arcade.md)
-- [Les pépites méconnues](best-unknown.md)
-- [Les meilleurs jeux multijoueur](best-multiplayer.md)
-- [Les meilleures versions des jeux souvent portés](best-version.md)
-- [Les meilleurs numéros des suites](best-number.md)
-- [Les meilleurs jeux par genre](best-genre.md)
-- [Les meilleurs jeux pour enfants](best-children.md)
-- [L'histoire des jeux vidéo](history.md)
 
 ## Ressources
 
