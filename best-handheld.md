@@ -148,7 +148,10 @@
 - Everybody's Tennis
 - God of War (1, 2)
 - GTA Chinatown Wars
+- Jeanne d'Arc
 - Mega Man Powered Up
 - Patapon
+- Valkyria Chronicles 2
 - Silent Hill Shattered Memories
+
 
