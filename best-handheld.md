@@ -34,67 +34,85 @@
 - Wario Land II (USA, Europe) (SGB Enhanced)
 
 **Atari Lynx** (1989)
-- Batman Returns
-- Blue Lightning
-- California Games
-- Chip's Challenge
-- Desert Strike
-- Dracula
-- Ninja Gaiden
-- Rygar
-- Slime World
-- Super Skweek
-- Toki
-- Warbirds
-- Zarlor's Mercenary
+- Batman Returns (USA, Europe)
+- Blue Lightning (USA, Europe)
+- California Games (USA, Europe)
+- Chip's Challenge (USA, Europe)
+- Desert Strike - Return to the Gulf (USA, Europe)
+- Dracula the Undead (USA, Europe)
+- Ninja Gaiden (USA, Europe)
+- Rygar (USA, Europe)
+- Todd's Adventures in Slime World (USA, Europe)
+- Super Skweek (USA, Europe)
+- Toki (USA, Europe)
+- Warbirds (USA, Europe)
+- Zarlor Mercenary (USA, Europe)
 
 **Sega Game Gear** (1990)
-- Aladdin
-- Ax Battler - A Legend of Golden Axe
-- Columns
-- Deep Duck Trouble Starring Donald Duck
-- Defenders of Oasis
-- Ecco (The Dolphin, Tides of Time)
-- GG Aleste
-- Lucky Dime Caper Starring Donald Duck
-- Ninja Gaiden
-- Shining Force 2
-- Shinobi (1, 2)
-- Sonic (1, 2, Chaos)
+- Aladdin (USA, Europe, Brazil)
+- Ax Battler - A Legend of Golden Axe ~ Golden Axe (USA, Europe, Brazil)
+- Columns (USA, Europe, Brazil)
+- Deep Duck Trouble Starring Donald Duck (USA, Europe)
+- Defenders of Oasis (USA, Europe)
+- Ecco the Dolphin (USA, Europe, Brazil)
+- Ecco - The Tides of Time (USA, Europe)
+- GG Aleste II ~ Power Strike II (Japan, Europe)
+- Lucky Dime Caper Starring Donald Duck, The (USA, Europe, Brazil)
+- Ninja Gaiden (USA, Europe, Brazil)
+- Shining Force II - The Sword of Hajya (USA)
+- GG Shinobi ~ Shinobi (World) (Rev 1)
+- Shinobi II - The Silent Fury (World)
+- Sonic The Hedgehog - Triple Trouble (USA, Europe)
+- Sonic The Hedgehog 2 (World)
+- Sonic Chaos (USA, Europe, Brazil)
 - Sonic Drift 2
-- Super Columns
-- Tails Adventures
+- Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA)
+- Star Trek Generations - Beyond the Nexus (USA)
+- Star Wars (USA, Europe)
+- Stargate (World)
+- Super Columns (USA, Europe)
+- Tails Adventures (World) (En,Ja)
 
 **Nintendo Gameboy Color** (1998)
-- Bionic Commando Elite Force
-- Blaster Master Enemy Below
-- Dragon Warrior (Dragon Quest) (1, 2, 3)
-- Heroes of Might and Magic 2
-- Mario Tennis
-- Mario Golf
-- Metal Gear Solid Ghost Babel
-- Motocross Maniacs 2
-- Pokemon (Argent, Or, Cristal)
-- R-Type DX
-- Shantae
-- Survival Kids
-- Super Mario Bros Deluxe
-- Wario Land (2, 3)
-- Zelda (Oracle of Age, Oracle of Seasons)
+- Bionic Commando - Elite Forces (USA, Australia)
+- Blaster Master - Enemy Below (USA, Europe) (SGB Enhanced)
+- Dragon Warrior I & II (USA) (SGB Enhanced)
+- Dragon Warrior III (USA)
+- Heroes of Might and Magic (Europe) (En,Fr,De)
+- Heroes of Might and Magic II (USA) (En,Fr,De)
+- Legend of Zelda, The - Link's Awakening DX (France) (SGB Enhanced)
+- Legend of Zelda, The - Oracle of Ages (Europe) (En,Fr,De,Es,It)
+- Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It)
+- Mario Golf (Europe)
+- Mario Tennis (Europe)
+- Metal Gear Solid (Europe) (En,Fr,De,Es,It)
+- Micro Maniacs (Europe)
+- Pokemon - Version Argent (France) (SGB Enhanced)
+- Pokemon - Version Cristal (France)
+- Pokemon - Version Or (France) (SGB Enhanced)
+- R-Type DX (USA, Europe)
+- Shantae (USA)
+- Star Wars Episode I - Obi-Wan's Adventures (Europe) (En,Fr,De,Es,It)
+- Star Wars Episode I - Racer (USA, Europe) (Rumble Version)
+- Super Mario Bros. Deluxe (USA, Europe)
+- Wario Land 3 (World) (En,Ja)
+- Wario Land II (USA, Europe) (SGB Enhanced)
 
 **SNK NeoGeo Pocket/Color** (1998)
-- Biomotor Unitron
-- Faselei
-- King of Fighters R2
-- Metal Slug (1, 2)
-- Neo Turf Masters
-- Puyo Pop
-- Puzzle Bobble Mini
-- SNK Gals Fighters
-- SNK vs Capcom Card Fighters (1, 2)
-- SNK vs Capcom Match of the Millenium
-- Sonic The Hedgehog Pocket Adventure
-- The Last Blade
+- Biomotor Unitron (USA, Europe)
+- Faselei! (Europe)
+- King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)
+- Last Blade, The - Beyond the Destiny (Europe)
+- Metal Slug - 1st Mission (World) (En,Ja)
+- Metal Slug - 2nd Mission (World) (En,Ja)
+- Neo Turf Masters (World) (En,Ja)
+- Puyo Pop (World) (En,Ja) (v1.06)
+- Puzzle Bobble Mini (Japan, Europe) (v1.10)
+- SNK Gals' Fighters (USA, Europe)
+- SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)
+- SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)
+- SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)
+- Sonic The Hedgehog - Pocket Adventure (World)
 
 **Bandai WonderSwan** (1999)
 - Beatmania
@@ -116,28 +134,75 @@
 - Tetris
 
 **Nintendo Gameboy Advance** (2001)
-- Advance Wars (1, 2)
-- Boktai (1, 2)
-- Castlevania (Circle of the Moon, Harmony of Dissonance, Aria of Sorrow)
-- Dragon Ball Advanced Adventure
-- Drill Dozer
-- Final Fantasy (I&II, IV, V, VI)
-- Final Fantasy Tactics Advance
-- Fire Emblem (tout court, Sacred Stones)
-- Golden Sun (1, 2)
-- Kirby (Nightmare in Dreamland, Amazing Mirror)
-- Mario & Luigi Superstar Saga
-- Megaman Zero (1 à 4)
-- Metroid (Zero Mission, Fusion)
-- Mother 3
-- Pokemon (Rouge Feu, Vert Feuille, Rubis, Saphir, Emeraude)
-- Rhythm Tengoku
-- Sonic Advance (1, 2, 3)
-- Super Mario Advance (1 à 4)
-- Sword of Mana
-- Wario Land 4
-- Wario Ware Inc
-- Zelda (Link to the Past, Minish Cap)
+- Advance Wars (Europe) (En,Fr,De,Es)
+- Advance Wars 2 - Black Hole Rising (Europe) (En,Fr,De,Es,It)
+- Boktai - The Sun Is in Your Hand (Europe) (En,Fr,De,Es,It)
+- Boktai 2 - Solar Boy Django (Europe) (En,Fr,De,Es,It)
+- Bomberman Max 2 - Blue Advance (Europe) (En,Fr,De)
+- Bomberman Max 2 - Red Advance (Europe) (En,Fr,De)
+- Bomberman Tournament (USA, Europe)
+- Boulder Dash EX (Europe) (En,Fr,De)
+- Breath of Fire (Europe) (En,Fr,De)
+- Breath of Fire II (Europe)
+- Castlevania - Aria of Sorrow (Europe) (En,Fr,De)
+- Castlevania - Harmony of Dissonance (Europe)
+- Castlevania (Europe)
+- Dragon Ball - Advanced Adventure (Europe) (En,Fr,De,Es,It)
+- Dragon Ball GT - Transformation (USA)
+- Dragon Ball Z - Buu's Fury (USA)
+- Dragon Ball Z - Collectible Card Game (USA)
+- Dragon Ball Z - Supersonic Warriors (Europe) (En,Fr,De,Es,It)
+- Dragon Ball Z - Taiketsu (Europe) (En,Fr,De,Es,It)
+- Dragon Ball Z - The Legacy of Goku (Europe) (En,Fr,De,Es,It)
+- Dragon Ball Z - The Legacy of Goku II (Europe) (En,Fr,De,Es,It)
+- Drill Dozer (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)
+- Final Fantasy I & II - Dawn of Souls (Europe) (En,Fr,De,Es,It)
+- Final Fantasy IV Advance (Europe) (En,Fr,De,Es,It)
+- Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It)
+- Final Fantasy V Advance (Europe) (En,Fr,De,Es,It)
+- Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)
+- Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)
+- Fire Emblem (Europe) (En,Fr,De)
+- Golden Sun - L'Age Perdu (France)
+- Golden Sun (France)
+- Kirby - Nightmare in Dream Land (Europe) (En,Fr,De,Es,It)
+- Kirby & The Amazing Mirror (Europe) (En,Fr,De,Es,It)
+- Legend of Zelda, The - A Link to the Past & Four Swords (Europe) (En,Fr,De,Es,It)
+- Legend of Zelda, The - The Minish Cap (Europe) (En,Fr,De,Es,It)
+- Mario & Luigi - Superstar Saga (Europe) (En,Fr,De,Es,It)
+- Mega Man Zero (USA, Europe)
+- Mega Man Zero 2 (Europe)
+- Mega Man Zero 3 (Europe)
+- Mega Man Zero 4 (Europe)
+- Metroid - Zero Mission (Europe) (En,Fr,De,Es,It)
+- Metroid Fusion (Europe) (En,Fr,De,Es,It)
+- Mobile Suit Gundam Seed - Battle Assault (USA)
+- Pokemon - Version Emeraude (France)
+- Pokemon - Version Rouge Feu (France)
+- Pokemon - Version Rubis (France)
+- Pokemon - Version Saphir (France)
+- Pokemon - Version Vert Feuille (France)
+- Robotech - The Macross Saga (USA, Europe) (En,Fr,De,Es,It,Nl)
+- R-Type III - The Third Lightning (Europe) (En,Fr,De,Es,It)
+- Sonic Advance (Europe) (En,Ja,Fr,De,Es)
+- Sonic Advance 2 (Europe) (En,Ja,Fr,De,Es,It)
+- Sonic Advance 3 (Europe) (En,Ja,Fr,De,Es,It)
+- Star Wars - Episode II - Attack of the Clones (Europe) (En,Fr,De,Es,It)
+- Star Wars - Episode III - Revenge of the Sith (Europe) (En,Fr,De,Es,It,Nl)
+- Star Wars - Flight of the Falcon (Europe) (En,Fr,De)
+- Star Wars - Jedi Power Battles (Europe) (En,Fr,De,Es)
+- Star Wars - The New Droid Army (Europe) (En,Fr,De,Es)
+- Star Wars Trilogy - Apprentice of the Force (Europe) (En,Fr,De,Es,It,Nl)
+- Super Mario Advance (USA, Europe)
+- Super Mario Advance 2 - Super Mario World (Europe) (En,Fr,De,Es)
+- Super Mario Advance 3 - Yoshi's Island (Europe) (En,Fr,De,Es,It)
+- Super Mario Advance 4 - Super Mario Bros. 3 (Europe) (En,Fr,De,Es,It)
+- Sword of Mana (Europe) (Fr,De)
+- Tactics Ogre - The Knight of Lodis (USA)
+- Tales of Phantasia (Europe) (En,Fr,De,Es,It)
+- Wario Land 4 (USA, Europe)
+- WarioWare, Inc. - Minigame Mania (Europe) (En,Fr,De,Es,It)
+- Wing Commander - Prophecy (Europe) (En,Fr,De,Es,It)
 
 **Nintendo DS** (2004)
 - Advance Wars (Dual Strike, Dark Conflict)
@@ -171,7 +236,3 @@
 - Patapon
 - Valkyria Chronicles 2
 - Silent Hill Shattered Memories
-
-
-
-
