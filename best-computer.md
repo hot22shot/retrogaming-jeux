@@ -1,75 +1,125 @@
 # ![Les meilleurs jeux sur ordinateur](images/computers.jpg)
 
 **Apple II** (1977)
-- Airheart
-- Captain Goodnight
-- Choplifter
-- Flight Simulator
-- Ghostbusters
-- Karateka
-- Maniac Mansion (+ Day of the Tentacle)
-- Might and Magic (1, 2)
-- Moon Patrol
-- Prince of Persia
-- Sid Meier's Pirates!
-- Skyfox
-- Space Quest (1, 2)
-- Swashbuckler
-- The Bard's Tales (1, 2, 3)
-- The Goonies
-- Ultima (1 à 5)
-- Wizardry (1 à 5)
+- Airheart (1986)(Broderbund)[cr]
+- Choplifter (19xx)(-)
+- Flight Simulator 2 (1983)(Sublogic)[cr]
+- Ghostbusters (1984)(Activision)
+- Goonies, The (19xx)(Datasoft)[cr]
+- Karateka (1984)(Broderbund)
+- Moon Patrol (19xx)(-)[cr]
+- Skyfox (1984)(Electronic Arts)
+- Swashbuckler (19xx)(-)
+- Ultima I (1981)(Origin)[Single Sided]
+- Ultima III - Exodus - Docs (1983)(Origin)
 
 **IBM PC/MS-DOS** (1981-1997)
-- Beneath a Steel Sky
-- Betrayal at Krondor
-- Blood
-- Carmageddon
-- Civilization (1, 2)
-- Comanche
-- Command & Conquer (+ Red Alert)
-- Commander Keen (1 à 6 + Dreams)
-- Descent
-- Discworld (1, 2)
-- Doom (1, 2)
-- Dune
-- Dune 2
+- 7 Colors (1991)
+- Abuse (1995)
+- Alien Breed - Tower Assault (1994)
+- Alien Breed (1993)
+- Alien Carnage (1993)
+- Alley Cat (1984)
+- Alone in the Dark (1992)
+- Altered Beast (1990)
+- Arkanoid (1988)
+- Arkanoid II - Revenge of Doh (1989)
+- A-Train (1992)
+- B.A.T. (1990)
+- B.A.T. 2 - The Koshan Conspiracy (1992)
+- Baby Jo in 'Going Home' (1991)
+- Battle Chess (1988)
+- Bio Menace (1993)
+- Bruce Lee (1984)
+- Bubble Blobb (1993)
+- Bubble Blobb II (1994)
+- Bubble Bobble (1988)
+- Bubble Bobble also featuring Rainbow Islands (1996)
+- Bust-A-Move Again (1996)
+- Bust-A-Move (1997)
+- Captain Comic II - Fractured Reality (1990)
+- Castle Wolfenstein (1984)
+- Cosmo's Cosmic Adventure (1992)
+- Crusader - No Regret (1996)
+- Crusader - No Remorse (1995)
+- Deja Vu - A Nightmare Comes True (1985)
+- Deja Vu II - Lost in Las Vegas (1990)
+- Descent - Anniversary Edition (1996)
+- Descent (1995)
+- Descent II (1996)
+- Destruction Derby (1996)
+- Duke Nukem II (1993)
+- Duke Nukum - Episode 1 - Shrapnel City (1991)
+- Duke Nukum - Episode 2 - Mission - Moonbase (1991)
+- Duke Nukum - Episode 3 - Trapped in the Future (1991)
+- Dune (1992)
+- Dune II - The Building of a Dynasty (1992)
 - Duke Nukem 3D
-- EF2000
-- Eye of the Beholder
-- Falcon 3.0
-- Flight Simulator (1 à 5)
-- Formula One Grand Prix (1, 2)
-- Heroes of Might & Magic (1, 2)
-- Jazz Jackrabbit
-- Lands of Lore
-- Little Big Adventure
-- Little Big Adventure 2
-- Master of Orion (1, 2)
-- Mechwarrior 2
-- Panzer General
-- Point & clicks Lucas Arts (Maniac Mansion, Monkey Island, Indiana Jones, Sam & Max, Full Throttle...)
-- Point & clicks Sierra (King's Quest, Space Quest, Leisure Suit Larry, Police Quest)
-- Quake
-- Railroad Tycoon
-- Railroad Tycoon 2
-- Red Baron
-- Screamer (1, 2, Rally)
-- Sim City (1, 2000)
-- Spear of Destiny
-- Su-27 Flanker
-- The Elders Scrolls 2 Daggerfall
-- Transport Tycoon
-- Tyrian 2000
-- Ultima (6,7,8 + Underworld 1 & 2)
-- Warcraft (1, 2)
-- Wasteland
-- Wing Commander (1 à 4, Privateer)
-- Wolfenstein 3D
-- X-Wing (+ TIE Fighter)
-- XCOM Apocalypse
-- XCOM Enemy Unknown/UFO Defense
-- XCOM Terror from the Deep
+- Eye of the Beholder (1991)
+- Eye of the Beholder II - The Legend of Darkmoon (1991)
+- Eye of The Beholder III - Assault on Myth Drannor (1993)
+- Fascination (1991) (1991)
+- Flashback - The Quest for Identity (1993)
+- HeroQuest (1991)
+- Jazz Jackrabbit CD-ROM (1994)
+- Jet Set Willy (1999)
+- Jet Set Willy II - The Final Frontier (2001)
+- Jim Power - The Lost Dimension in 3D (1993)
+- Jurassic Park (1993)
+- KGB (1992)
+- Lagaf' - Les Aventures de Moktar - Vol 1 - La Zoubida (1991)
+- Lands of Lore - The Throne of Chaos (1993)
+- Master of Orion (1993)
+- Metal Gear (1990)
+- Metal Mutant (1991)
+- Micro Machines (1994)
+- Prince of Persia (1990)
+- Prince of Persia 2 - The Shadow & The Flame (1993)
+- Rastan (1990)
+- Rick Dangerous (1989)
+- Rick Dangerous 2 (1990)
+- Saboteur II (1987)
+- Shinobi (1989)
+- Sid Meier's Civilization (1991)
+- Sid Meier's Colonization (1994)
+- Sid Meier's Pirates (1987)
+- Sid Meier's Railroad Tycoon (1990)
+- Sid Meier's Railroad Tycoon Deluxe (1993)
+- SimCity (1989)
+- SimCity 2000 - CD Collection (1995)
+- SimCity Classic (1994)
+- SimCity Enhanced CD-ROM (1993)
+- Space Crusade (1992)
+- Space Hulk (1993)
+- Spear of Destiny (1992)
+- Star Trek - 25th Anniversary (1992)
+- Star Trek - The Next Generation - A Final Unity (1995)
+- Star Trek - The Next Generation - The Transinium Challenge (1989)
+- Star Trek V - The Final Frontier (1989)
+- StarBlade (1990)
+- Starflight (1986)
+- Starflight 2 - Trade Routes of the Cloud Nebula (1989)
+- Starglider (1987)
+- The Blues Brothers - Jukebox Adventure (1993)
+- The Blues Brothers (1991)
+- The Chaos Engine (1994)
+- Turrican II - The Final Fight (1995)
+- Tyrian (1995)
+- Voyeur (1994)
+- Wing Commander (1990)
+- Wing Commander Academy (1993)
+- Wing Commander Armada (1994)
+- Wing Commander II - Deluxe Edition (1992)
+- Wing Commander III - Heart of the Tiger (1994)
+- Wing Commander IV - The Price of Freedom (1996)
+- Wing Commander Privateer (CD-ROM) (1994)
+- Wings of Fury (1989)
+- Wolfenstein 3D (1992)
+- X-COM - Apocalypse (1997)
+- X-COM - Terror from the Deep (1995)
+- X-COM - UFO Defense (1994)
+- Xenon 2 - Megablast (1990)
+- Zool 2 (1994)
 
 **Atari 5200/400/800/XL/XE/XEGS** (1982)
 - Boulder Dash
@@ -84,43 +134,82 @@
 - The Great American Cross Country Road Race
 
 **Commodore 64** (1982)
-- Airborne Ranger
+- Ace of Aces
+- Airwolf
+- Another World
+- Arkanoid
+- Barbarian 2
+- Barbarian
+- Black Tiger
+- Bomb Jack 2
+- Bomb Jack
+- Boulder Dash
+- Bruce Lee II
 - Bruce Lee
 - Bubble Bobble
+- Cabal
+- California Games
+- Cauldron 2
+- Cauldron
+- Chase HQ 2 - Special Criminal Investigation
+- Cybernoid 2
+- Cybernoid
 - Defender of The Crown
+- Forgotten Worlds
+- Gauntlet 2
+- Gauntlet
+- Ghostbusters
+- Green Beret
 - International Karate +
-- Io
-- Last Ninja (1, 2)
-- Maniac Mansion
+- Into the Eagle's Nest
+- Jack the Nipper 2
+- Jack the Nipper
+- Jet Set Willy 2
+- Last Ninja All in One
+- Maniac Mansion and Zak Mc Kracken
+- Marble Madness
+- Metro Cross
 - Microprose Soccer
-- Pirates !
-- Project Firestart
-- Revs
+- Rainbow Islands
+- Rastan
+- Real Ghostbusters, The
+- Rick Dangerous 2
+- Rick Dangerous
+- Road Runner
+- Rolling Thunder
+- Salamander
+- Short Circuit
+- Tetris
 - The Great Giana Sisters
+- The New Zealand Story
 - The Way of the Exploding Fist
-- Uridium
+- Toki
+- Total Recall
+- Uridium Plus
 
 **ZX Spectrum** (1982)
-- Alien 8
-- Atic Atac
-- Chaos
-- Chuckie Egg
-- Elite
-- Fantasy World Dizzy
-- Head Over Heels
-- Jet Set Willy
-- Knight Lore
-- Manic Miner
-- MYTH: History in the Making
-- Laser Squad
-- Lords of Midnight
-- Lunar Jetman
-- Rex
-- Skool Daze
-- Starquake
-- The Great Escape
-- The Hobbit
-- Turbo Esprit
+- Alien 8 (1985)(Ultimate)
+- Atic Atac (1983)(Ultimate)
+- Chuckie Egg (Europe)
+- Elite (Europe)
+- Great Escape, The (Europe)
+- Head over Heels (Europe)
+- Jet Set Willy (Europe)
+- Jet Set Willy II - The Final Frontier (Europe)
+- Jet Set Willy III (Europe)
+- Laser Squad - Remix (Europe)
+- Lunar Jetman (1983)(Ultimate)
+- Myth - History in the Making (Europe)
+- Renegade (Europe)
+- Renegade II - Target Renegade (Europe)
+- Renegade III - The Final Chapter (Europe)
+- Rex (Side A) (Europe)
+- Rick Dangerous (Europe)
+- Rick Dangerous 2 (Europe)
+- Skool Daze (Europe)
+- Starquake (Europe)
+- Thanatos (Europe)
+- Turbo Esprit (Europe)
 
 **Microsoft MSX** (1983)
 - F1-Spirit
@@ -270,3 +359,4 @@
 - Thief 1, 2
 - Total Annihilation
 - Unreal, Unreal Tournament
+
